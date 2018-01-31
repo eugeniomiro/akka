@@ -28,7 +28,7 @@ Certain `Behavior`s will be hard to test synchronously e.g. if they spawn Future
 before observing the effect you want to test. Further support for controlling the scheduler and execution context used
 will be added.
     
-## Synchronous behaviour testing
+## Synchronous behavior testing
 
 The following demonstrates how to test:
 

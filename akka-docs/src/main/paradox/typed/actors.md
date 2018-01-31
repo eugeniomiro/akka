@@ -11,7 +11,7 @@ This module is currently marked as @ref:[may change](../common/may-change.md) in
 
 ### Migrating to 2.5.9
 
-* `EffectfulActorContext` has been renamed to `BehaviourTestKit`
+* `EffectfulActorContext` has been renamed to `BehaviorTestKit`
 * `Inbox` has been renamed to `TestInbox` to allign with `TestProbe`
 * Separated into modules e.g. `akka-actor-typed` `akka-persistence-typed` along with matching package names
 
